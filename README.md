@@ -1,0 +1,2 @@
+# FloatingPanelSample_ios
+FloatingPanelのライブラリのサンプル
